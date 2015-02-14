@@ -1,8 +1,13 @@
 package ReadCsv;
 
 import java.io.File;
+
 import java.io.IOException;
 import java.util.List;
+
+/*
+ * initialisation du launcher
+ */
 
 public class Launcher {
 
